@@ -1,0 +1,16 @@
+* {
+	/*background: #CBF76F	;*/
+	background: #4e4382;
+}
+
+#figure {
+	width: 150px;
+	height: 150px;
+	background-color: greenyellow;
+	display: none;
+	position: relative;
+}
+
+h3 {
+	color: antiquewhite;
+}
